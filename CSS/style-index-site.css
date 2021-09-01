@@ -1,0 +1,19 @@
+#title_log
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration-line: underline;
+}
+
+
+#login_table
+{
+    border-style: double;
+}
+
+.text-login
+{
+    font-weight: bold;
+}
